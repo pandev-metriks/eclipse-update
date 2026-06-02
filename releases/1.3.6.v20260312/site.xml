@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/kz.pandev.metrics_1.3.6.jar" id="kz.pandev.metrics" version="1.3.6">
-      <category name="kz.pandev.metrics"/>
-   </feature>
-   <category-def name="kz.pandev.metrics" label="PanDev Metrics-1.3.6"/>
-</site>
