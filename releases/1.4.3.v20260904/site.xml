@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/kz.pandev.metrics_1.4.3.jar" id="kz.pandev.metrics" version="1.4.3">
+      <category name="io.pandev.metrics.1.4.3"/>
+   </feature>
+   <category-def name="io.pandev.metrics.1.4.3" label="PanDev Metrics 1.4.3">
+      <description>
+         PanDev Metrics — data-driven development analytics.
+      </description>
+   </category-def>
+</site>
