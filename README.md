@@ -15,11 +15,11 @@ PanDev Metrics — плагин для Eclipse, который подключа�
 4. Перезапустите Eclipse, когда будет предложено.
 
 ## Оффлайн-установка
-Скачайте архив [pandev-metrics-1.4.3.zip](downloads/pandev-metrics-1.4.3.zip) и в Install New Software добавьте его через Add -> Archive.
+Скачайте архив [pandev-metrics-1.4.4.zip](downloads/pandev-metrics-1.4.4.zip) и в Install New Software добавьте его через Add -> Archive.
 
 ## Сведения о релизе
-- Текущая версия плагина: 1.4.3 (bundle id: kz.pandev.metrics)
-- Фича: kz.pandev.metrics 1.4.3, поставщик PANDEV
+- Текущая версия плагина: 1.4.4 (bundle id: kz.pandev.metrics)
+- Фича: kz.pandev.metrics 1.4.4, поставщик PANDEV
 - Назначение: data-driven аналитика разработки, мониторинг командных показателей и эффективности лидов
 
 ## Структура репозитория
