@@ -5,9 +5,9 @@
         type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository'
         version='1.0.0'>
     <properties size='1'>
-        <property name='p2.timestamp' value='1788782071184'/>
+        <property name='p2.timestamp' value='1789039814677'/>
     </properties>
     <children size='1'>
-        <child location='../../../releases/1.4.4.v20260907'/>
+        <child location='../../../releases/1.4.5.v20260910'/>
     </children>
 </repository>
